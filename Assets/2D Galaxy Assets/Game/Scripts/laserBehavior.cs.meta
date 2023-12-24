@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 60b6139aa28ea194ab8148e7dd9469c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemyExplosionPrefab: {fileID: 663199129878936982, guid: 442875f872ba0cf49826ea0db123f838, type: 3}
+  - _playerExplosionPrefab: {fileID: 3731442960997820096, guid: 627b03f939ddb2d4092d06aa6a3957f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

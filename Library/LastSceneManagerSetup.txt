@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/2D Galaxy Assets/Game/Scenes/PressStart.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

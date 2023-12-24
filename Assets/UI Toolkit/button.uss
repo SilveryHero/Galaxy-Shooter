@@ -1,0 +1,9 @@
+.button {
+    font-size: 14px;
+    scale: 1.7 1.7;
+    -unity-background-image-tint-color: rgba(18, 26, 91, 0);
+    color: rgba(33, 255, 0, 255);
+    background-color: rgba(72, 63, 63, 0.5);
+    width: 125px;
+    height: 25px;
+}

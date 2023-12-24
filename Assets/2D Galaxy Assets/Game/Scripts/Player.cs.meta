@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ab23bc99442ac4543a712e3ccad12e84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _enemy: {fileID: 1235123033161241239, guid: 2ab6d3d8e31fd584fbe3146a56e1e015, type: 3}
+  - _enemy2: {fileID: 4825492406758845380, guid: 26a16da18a36bba42bd59c7a6548e156, type: 3}
+  - _boss: {fileID: 8690264852441313574, guid: f24d3e80a0916014d8a37d743eb80772, type: 3}
+  - _laserPrefab: {fileID: 3993897250998399036, guid: 95da9570b6ab684438f661948ab12f51, type: 3}
+  - _playerExplosionPrefab: {fileID: 3731442960997820096, guid: 627b03f939ddb2d4092d06aa6a3957f9, type: 3}
+  - _enemyExplosionPrefab: {fileID: 663199129878936982, guid: 442875f872ba0cf49826ea0db123f838, type: 3}
+  - _tripleShotPrefab: {fileID: 7160852898722611907, guid: da5ed6e28fd03e543929c9072a475a1b, type: 3}
+  - _shieldGameObject: {instanceID: 0}
+  - _powerUp0: {fileID: 1935343339264126239, guid: 206014bb065b2454181b5c5054797398, type: 3}
+  - _powerUp1: {fileID: 7125986131132958104, guid: 9581879bd51809b47ace233b271c569f, type: 3}
+  - _powerUp2: {fileID: 6651183501668766163, guid: 51e9b01b29d36aa4d93fa024da85fadb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
